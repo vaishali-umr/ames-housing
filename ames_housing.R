@@ -10,7 +10,7 @@ library(InformationValue)
 library(GGally)
 library(caret)
 
-setwd('~/Data Analysis R & Python/Homework/HW 6')
+setwd('~/Coding Samples/ames-housing')
 
 ames <- read_csv('ames_housing.csv')
 
